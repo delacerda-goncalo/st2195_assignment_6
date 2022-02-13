@@ -8,4 +8,4 @@ Interesting notes:
 - Affairs, New and Bank only appear on the top 20 of good news.
 - Challenges appears at a higher frequency on bad news, although crisis appears at a lower rate.
 
-
+Due to time constraints, I was only able to do it in Python (for now).
